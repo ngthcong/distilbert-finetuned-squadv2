@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+numpy
+tqdm
+datasets
+evaluate
+logging
+logging
