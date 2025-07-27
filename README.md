@@ -8,6 +8,10 @@ A production-ready, demo-friendly Question Answering (QA) system using DistilBER
 - Preprocessing and evaluation utilities for SQuAD v2
 - Modular, extensible codebase
 
+## Streamlit Demo
+Try the live demo here:
+👉 https://distilbert-finetuned-squadv2.streamlit.app/
+
 ## Project Structure
 
 ```text
